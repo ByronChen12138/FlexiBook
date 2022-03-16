@@ -1,4 +1,6 @@
 # FlexiBook
+
+## Bussiness Setup
 The FlexiBook application has a built-in user account for the business owner called owner. Initially, the
 password for this account is set to owner, but this can be changed later on. Only the owner may set up
 the business, i.e., provide general information about the business and its services. After logging in, the
@@ -20,3 +22,13 @@ another customer). The owner may update a service or service combo after a warni
 appointments of the service or service combo will be affected. The owner may cancel the update of a
 service or service combo, if she does not want to change these appointments. The owner may delete a
 service or service combo, only if no future appointments exist for the service or service combo.
+
+***
+
+## Group Members:
+* [Ao Shen](https://github.com/MaaaXnb), ao.shen@mail.mcgill.ca
+* [Byron (Yifei) Chen](https://github.com/ByronChen12138), yifei.chen@mail.mcgill.ca
+* [Ing (Zeying) Tian](https://github.com/IngTian), zeying.tian@mail.mcgill.ca
+* [Jianmo Li](https://github.com/LiJianmo), jianmo.li@mail.mcgill.ca
+* [Kevin Li](https://github.com/likai96432), kevin.li3@mail.mcgill.ca
+* [Xiang Li](https://github.com/Glaceon-Hibiki), xiang.li8@mail.mcgill.ca 
